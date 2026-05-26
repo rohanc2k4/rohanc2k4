@@ -7,17 +7,21 @@
 </p>
 
 <p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/rohanchawla2004">
-  <img alt="Rohan's LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://open.spotify.com/user/_rohan">
-  <img alt="Rohan's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
-<a href="https://rohan2k4.com">
-  <img alt="Rohan's Website" width="50px" src="https://user-images.githubusercontent.com/43545812/144035203-3aa776f8-3a3c-46fe-a8a9-1bc3a13b2c2a.png" />
-</a>
-<br>
+  <a href="https://rohan2k4.com">
+    <img alt="rohan2k4.com" src="https://img.shields.io/badge/rohan2k4.com-14110d?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rohanchawla2004">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://open.spotify.com/user/_rohan">
+    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:rohanchawla2004@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohanc2k4&theme=github-dark-dimmed&custom_title=Rohan%27s%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -31,8 +35,9 @@ education: ["B.S. Computer Science (Machine Learning concentration), University 
 company: Intuit, QuickBooks Indirect Tax
 past_experiences:
   - ["Software Engineering Intern", "Verrus (Alphabet-backed AI infrastructure)", "2025-2026"]
-  - ["Software Engineering Intern", "John Deere", "ML deployment + Spark to Fabric migration", "2024 + 2025"]
-  - ["Software Engineering Intern", "NOAA", "Arctic sea-ice voyage planning", "2023"]
+  - ["Software Engineering Intern", "John Deere", "Spark to Microsoft Fabric migration, dealer-notification pipeline", "Summer 2025"]
+  - ["Software Engineering Intern", "John Deere", "ML deployment path on Databricks, AWS Lambda, Terraform", "Summer 2024"]
+  - ["Software Engineering Intern", "NOAA", "Arctic sea-ice voyage planning", "Summer 2023"]
 
 fields_of_interests: ["Agentic RAG", "Retrieval-augmented LLMs", "Knowledge graphs", "AGI", "LLM-native tooling"]
 technical_background: ["Distributed systems", "ML deployment", "Cloud infrastructure (AWS)", "GitOps", "Data pipelines"]
