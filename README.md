@@ -1,42 +1,69 @@
-Software engineer joining **Intuit** in NYC, June 2026. Previously NOAA, John Deere (×2), Verrus.
+[![Actions Status](https://github.com/rohanc2k4/rohanc2k4/workflows/wakatime-stats/badge.svg)](https://github.com/rohanc2k4/rohanc2k4/actions)
+[![Actions Status](https://github.com/rohanc2k4/rohanc2k4/workflows/update-gh-activity/badge.svg)](https://github.com/rohanc2k4/rohanc2k4/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=rohanc2k4.rohanc2k4)
 
-Currently building [Sanji](https://sanji.dev), a localhost replacement for NotebookLM that runs on your Obsidian vault.
+<p align="center">
+  <img src="https://socialify.git.ci/rohanc2k4/rohanc2k4/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="rohanc2k4" width="700" height="300" />
+</p>
 
----
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/rohanchawla2004">
+  <img alt="Rohan's LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://open.spotify.com/user/_rohan">
+  <img alt="Rohan's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<a href="https://rohan2k4.com">
+  <img alt="Rohan's Website" width="50px" src="https://user-images.githubusercontent.com/43545812/144035203-3aa776f8-3a3c-46fe-a8a9-1bc3a13b2c2a.png" />
+</a>
+<br>
+</p>
 
-### What I'm building
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohanc2k4&theme=github-dark-dimmed&custom_title=Rohan%27s%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-| Repo | What it is |
-|---|---|
-| **[Sanji](https://github.com/rohanc2k4/sanji)** | A localhost study buddy. Drop PDFs, DOCX, or markdown notes in front of him and he'll read them all, sit with you while you work, and answer anything you ask. Notes never leave your machine. [sanji.dev →](https://sanji.dev) |
-| **[Agentic Brain](https://github.com/rohanc2k4/agentic-brain)** | An opinionated second-brain framework for Claude Code. 15 skills, 4 hooks, file-based markdown, and a knowledge graph that grows as you use it. |
-| **[rohan2k4.com](https://github.com/rohanc2k4/personal-site)** | A small one-page newspaper. Set in Fraunces and JetBrains Mono. [rohan2k4.com →](https://rohan2k4.com) |
+```yaml
+name: Rohan Chawla
+located_in: New York, NY
+from: Maryland (USA)
+job: Software Engineer (incoming, Intuit QuickBooks)
+education: ["B.S. Computer Science (Machine Learning concentration), University of Maryland", "Minor in General Business"]
+company: Intuit, QuickBooks Indirect Tax
+past_experiences:
+  - ["Software Engineering Intern", "Verrus (Alphabet-backed AI infrastructure)", "2025-2026"]
+  - ["Software Engineering Intern", "John Deere", "ML deployment + Spark to Fabric migration", "2024 + 2025"]
+  - ["Software Engineering Intern", "NOAA", "Arctic sea-ice voyage planning", "2023"]
 
-### Past
+fields_of_interests: ["Agentic RAG", "Retrieval-augmented LLMs", "Knowledge graphs", "AGI", "LLM-native tooling"]
+technical_background: ["Distributed systems", "ML deployment", "Cloud infrastructure (AWS)", "GitOps", "Data pipelines"]
 
-- **NOAA** (2023). Modeled 14.7M Arctic grid cells for least-cost sea-ice routing. The routing module I contributed was integrated into NOAA's global voyage-planning system.
-- **John Deere** (2024). Optimized the ML deployment path on Databricks Model Serving, AWS Lambda, and Terraform. Sustained 16,500 req/s; cut deployment failures 30%.
-- **John Deere** (2025). Led the Spark to Microsoft Fabric migration on the dealer-notification pipeline. $676K per year in savings, 73% job-cost reduction.
-- **Verrus** (2025 to June 2026). Software Infrastructure intern at an Alphabet-backed AI infrastructure startup. Built the first automated CD path (ArgoCD, Helm, Harbor on EKS-A) and a 6-node distributed NATS observability stack.
+currently_building: ["Sanji (localhost NotebookLM replacement)", "Agentic Brain (Claude Code framework)"]
+currently_learning: ["Agent design patterns", "Claude Code skill engineering"]
+will_learn: ["Rust", "Systems performance engineering"]
 
----
+hobbies: ["Fitness", "Cooking", "Reading", "Cinema"]
+```
 
-<div align="center">
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=_rohan&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
 
-<img src="./metrics.repository.svg" alt="Sanji — repository spotlight" />
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=_rohan&count=5">
+</p>
 
-<img src="./metrics.svg" alt="GitHub metrics with isometric commit calendar" />
 
-<img src="./metrics.plugin.skyline.svg" alt="GitHub Skyline" />
+**:zap: Recent Activity:**
 
-<img src="./metrics.plugin.stars.svg" alt="Recently starred repositories" />
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<img src="./metrics.plugin.achievements.svg" alt="Detailed achievements" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-</div>
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
 
-<p align="center"><sub>Metrics regenerated daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub></p>
-
----
-
-[rohan2k4.com](https://rohan2k4.com) · [LinkedIn](https://linkedin.com/in/rohanchawla2004) · rohanchawla2004@gmail.com
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
