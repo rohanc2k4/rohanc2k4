@@ -33,10 +33,10 @@ job: Software Engineer (incoming, Intuit QuickBooks)
 education: ["B.S. Computer Science, University of Maryland"]
 company: Intuit, QuickBooks Indirect Tax
 past_experiences:
-  - ["Software Engineering Intern", "Verrus", "2025-2026"]
-  - ["Software Engineering Intern", "John Deere", "Spark to Microsoft Fabric migration, dealer-notification pipeline", "Summer 2025"]
-  - ["Software Engineering Intern", "John Deere", "ML deployment path on Databricks, AWS Lambda, Terraform", "Summer 2024"]
-  - ["Software Engineering Intern", "NOAA", "Arctic sea-ice voyage planning", "Summer 2023"]
+  - ["Software Engineering Intern", "ArgoCD, Helm, Harbor, Kubernetes, NATS, Prometheus, Nuxt 3", "Verrus", "2025-2026"]
+  - ["Software Engineering Intern", "Spark, Microsoft Fabric, Chalice, AWS", "John Deere", "Summer 2025"]
+  - ["Software Engineering Intern", "Databricks Model Serving, AWS Lambda, Terraform", "John Deere", "Summer 2024"]
+  - ["Software Engineering Intern", "Python, NetworkX, NumPy, NetCDF4", "NOAA", "Summer 2023"]
 
 fields_of_interests: ["Agentic RAG", "Retrieval-augmented LLMs", "Knowledge graphs", "AGI", "LLM-native tooling"]
 technical_background: ["Distributed systems", "ML deployment", "AWS", "GitOps", "Data pipelines"]
