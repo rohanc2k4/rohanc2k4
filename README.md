@@ -23,17 +23,19 @@ Currently building [Sanji](https://sanji.dev), a localhost replacement for Noteb
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rohanc2k4&show_icons=true&hide_border=true&title_color=f1ece1&icon_color=e07a7a&text_color=d8d2c3&bg_color=00000000">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanc2k4&show_icons=true&hide_border=true&title_color=14110d&icon_color=a52a2a&text_color=2a2620&bg_color=00000000" alt="GitHub stats" />
-</picture>
+<img src="./metrics.repository.svg" alt="Sanji — repository spotlight" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanc2k4&layout=compact&hide_border=true&title_color=f1ece1&text_color=d8d2c3&bg_color=00000000&langs_count=8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanc2k4&layout=compact&hide_border=true&title_color=14110d&text_color=2a2620&bg_color=00000000&langs_count=8" alt="Top languages" />
-</picture>
+<img src="./metrics.svg" alt="GitHub metrics with isometric commit calendar" />
+
+<img src="./metrics.plugin.skyline.svg" alt="GitHub Skyline" />
+
+<img src="./metrics.plugin.stars.svg" alt="Recently starred repositories" />
+
+<img src="./metrics.plugin.achievements.svg" alt="Detailed achievements" />
 
 </div>
+
+<p align="center"><sub>Metrics regenerated daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub></p>
 
 ---
 
