@@ -1,4 +1,3 @@
-[![Actions Status](https://github.com/rohanc2k4/rohanc2k4/workflows/wakatime-stats/badge.svg)](https://github.com/rohanc2k4/rohanc2k4/actions)
 [![Actions Status](https://github.com/rohanc2k4/rohanc2k4/workflows/update-gh-activity/badge.svg)](https://github.com/rohanc2k4/rohanc2k4/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=rohanc2k4.rohanc2k4)
 
@@ -31,22 +30,22 @@ name: Rohan Chawla
 located_in: New York, NY
 from: Maryland (USA)
 job: Software Engineer (incoming, Intuit QuickBooks)
-education: ["B.S. Computer Science (Machine Learning concentration), University of Maryland", "Minor in General Business"]
+education: ["B.S. Computer Science, University of Maryland"]
 company: Intuit, QuickBooks Indirect Tax
 past_experiences:
-  - ["Software Engineering Intern", "Verrus (Alphabet-backed AI infrastructure)", "2025-2026"]
+  - ["Software Engineering Intern", "Verrus", "2025-2026"]
   - ["Software Engineering Intern", "John Deere", "Spark to Microsoft Fabric migration, dealer-notification pipeline", "Summer 2025"]
   - ["Software Engineering Intern", "John Deere", "ML deployment path on Databricks, AWS Lambda, Terraform", "Summer 2024"]
   - ["Software Engineering Intern", "NOAA", "Arctic sea-ice voyage planning", "Summer 2023"]
 
 fields_of_interests: ["Agentic RAG", "Retrieval-augmented LLMs", "Knowledge graphs", "AGI", "LLM-native tooling"]
-technical_background: ["Distributed systems", "ML deployment", "Cloud infrastructure (AWS)", "GitOps", "Data pipelines"]
+technical_background: ["Distributed systems", "ML deployment", "AWS", "GitOps", "Data pipelines"]
 
 currently_building: ["Sanji (localhost NotebookLM replacement)", "Agentic Brain (Claude Code framework)"]
 currently_learning: ["Agent design patterns", "Claude Code skill engineering"]
-will_learn: ["Rust", "Systems performance engineering"]
+will_learn: ["How to take over the world"]
 
-hobbies: ["Fitness", "Cooking", "Reading", "Cinema"]
+hobbies: ["Fitness", "Listening to music", "Spending money", "Making the most out of life"]
 ```
 
 <p align="center">
@@ -67,17 +66,6 @@ hobbies: ["Fitness", "Cooking", "Reading", "Cinema"]
 4. 🗣 Commented on [#20](https://github.com/rohanc2k4/sanji/pull/20#issuecomment-4389991429) in [rohanc2k4/sanji](https://github.com/rohanc2k4/sanji)
 5. ❌ Closed PR [#20](https://github.com/rohanc2k4/sanji/pull/20) in [rohanc2k4/sanji](https://github.com/rohanc2k4/sanji)
 <!--END_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-simple-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-simple-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
