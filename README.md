@@ -60,8 +60,8 @@ hobbies: ["Fitness", "Listening to music", "Spending money", "Making the most ou
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/rohanc2k4/sanji/pull/24) in [rohanc2k4/sanji](https://github.com/rohanc2k4/sanji)
-2. 💪 Opened PR [#24](https://github.com/rohanc2k4/sanji/pull/24) in [rohanc2k4/sanji](https://github.com/rohanc2k4/sanji)
+1. 🗣 Commented on [#23](https://github.com/rohanc2k4/sanji/pull/23#issuecomment-4961951657) in [rohanc2k4/sanji](https://github.com/rohanc2k4/sanji)
+2. 🗣 Commented on [#22](https://github.com/rohanc2k4/sanji/pull/22#issuecomment-4961951489) in [rohanc2k4/sanji](https://github.com/rohanc2k4/sanji)
 3. 🗣 Commented on [#21](https://github.com/rohanc2k4/sanji/pull/21#issuecomment-4389998925) in [rohanc2k4/sanji](https://github.com/rohanc2k4/sanji)
 4. 🗣 Commented on [#20](https://github.com/rohanc2k4/sanji/pull/20#issuecomment-4389991429) in [rohanc2k4/sanji](https://github.com/rohanc2k4/sanji)
 5. ❌ Closed PR [#20](https://github.com/rohanc2k4/sanji/pull/20) in [rohanc2k4/sanji](https://github.com/rohanc2k4/sanji)
